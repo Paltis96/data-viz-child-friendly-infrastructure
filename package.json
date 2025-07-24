@@ -11,6 +11,10 @@
     "type-check": "vue-tsc --build"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "maplibre-gl": "^5.6.1",
+    "pmtiles": "^4.3.0",
+    "tailwindcss": "^4.1.11",
     "vue": "^3.5.17"
   },
   "devDependencies": {
